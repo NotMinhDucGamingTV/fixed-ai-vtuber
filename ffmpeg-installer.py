@@ -27,7 +27,7 @@ class Setup:
                     await file.write(data)
 
     async def unzip(self) -> None:
-        logger.debug("Unziping {self.download_path} to {self.download_path.parent}")
+        logger.debug(f"Unziping {self.download_path} to {self.download_path.parent}")
         try:
             await aioshutil.unpack_archive(
                 self.download_path, self.download_path.parent
