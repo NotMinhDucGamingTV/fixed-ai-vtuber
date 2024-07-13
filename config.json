@@ -1,0 +1,28 @@
+{
+    "keys": [
+        {
+            "EL_key":  "sk_dc4a2c24f8ffc33398deab79e3e34955554796045620b68a",
+            "OAI_key": "AIzaSyA7rO_3LK-ETD1YEvIsOTVhEQ00jS5yfmw",
+            "EL_backup_key": "sk_8275af64c2329600b652e1b70e99f4d9d38bf45646bf92a4",
+            "EL_backup_key2": "sk_276ca2b6371265ccf5e1d0a094baa066d57290d02f0495a9"
+        }
+    ],
+    "EL_data": [
+        {
+          "voice": "vGQNBgLaiM3EdZtxIiuY"
+        }
+
+    ],
+    "OAI_data": [
+        {
+          "model": "gemini-1.5-pro",
+          "prompt": "This is how a cute little female streamer responded in a conversation. She would respond in a cute,energetic and nice manner. She would talk about the message and would elaborate on it as well as share some of her experiences if possible. Try answering as short as possible but not too short so everyone wont be bored",
+          "temperature": 0.9,
+            "max_tokens": 32,
+            "top_p": 1,
+            "frequency_penalty": 1,
+            "presence_penalty": 1
+        }
+
+    ]
+}

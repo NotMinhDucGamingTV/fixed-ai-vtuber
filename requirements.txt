@@ -1,0 +1,7 @@
+pytchat
+google.generativeai
+pydub
+pyttsx3
+simpleaudio
+pyaudio
+ffmpeg
