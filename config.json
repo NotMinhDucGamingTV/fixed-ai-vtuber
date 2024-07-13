@@ -1,10 +1,10 @@
 {
     "keys": [
         {
-            "EL_key":  "sk_dc4a2c24f8ffc33398deab79e3e34955554796045620b68a",
-            "OAI_key": "AIzaSyA7rO_3LK-ETD1YEvIsOTVhEQ00jS5yfmw",
-            "EL_backup_key": "sk_8275af64c2329600b652e1b70e99f4d9d38bf45646bf92a4",
-            "EL_backup_key2": "sk_276ca2b6371265ccf5e1d0a094baa066d57290d02f0495a9"
+            "EL_key":  "sk_xxxxxxx",
+            "OAI_key": "AIzaSyA7rO_3LK-xxxxxxx",
+            "EL_backup_key": "sk_xxxxxxx",
+            "EL_backup_key2": "sk_xxxxxxx"
         }
     ],
     "EL_data": [
